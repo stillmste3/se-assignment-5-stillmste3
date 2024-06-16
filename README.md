@@ -10,14 +10,37 @@ Answer the following questions based on your understanding of the installation a
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
+ To install VS Code on Windows 11, ensure that your system is running on Windows 11. If not downaload Windows and go to your browser and search for visual studio code.
+ Click the download button for windows and once it is complete open the file to install it.
+ You will be asked if you want to allow the app to make changes to your device. Click yes and read and accept the license agreement then select where you want to save the installation and click install to finish the installation.
+
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+
+   - Customize your vs code by selecting a theme either from the built in themes or you can download one from the extensions marketplace
+   - Ensure git is properly configured by setting up your username and email address in git
+   - Install extensions such as live server and prettier from the extensions marketplace and ensure you have the latest vs code.
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 
+   The activity bar provides quick access to various views and features through icons. Default icons include:
+   - Explorer: shows your files and folders, also opens them
+   - Search
+   - Extensions: takes you to the market place where you can download extensions
+   - Run and Debug: runs and debugs code
+
+   The side bar displays different content. It provides a detailed view and interaction space for different tools and panels.
+
+   The editor group is where you write and edit code. It has multiple tabs and panels which allow one to work on several files at the same time. You can split the editor into multiple panes to view and edit files side by side, and different elements of code are color coded based on the programming language.
+
+   The status bar provides essential contextual information and shortcuts to your workspace and files.
+   It shows the current bit branch you arre working on and displays errors.
+
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
+
+   The Command Palette in Visual Studio Code is a powerful feature that provides quick access to a wide range of commands and settings without having to navigate through menus. It allows you to perform tasks, configure settings, and execute commands efficiently. It can be accessed by pressing Ctrl + Shift + P on windows or you can access it through view in the menu tab.
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
