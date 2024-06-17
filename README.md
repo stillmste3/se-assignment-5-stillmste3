@@ -76,7 +76,6 @@ Answer the following questions based on your understanding of the installation a
    ![alt text](image.png) or you can download a theme at the extensions marketplace.
    To change the font size, follow the steps you did to change the theme and type font size in the search bar then enter the font size you want.
    ![alt text](image-1.png) To change keybindings go to file > preferences > keyboard shortcuts and change your keybindings to your desire.
-   ![alt text](image-3.png)
 
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
