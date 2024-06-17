@@ -93,6 +93,7 @@ Answer the following questions based on your understanding of the installation a
    - To initialize a new local git repository, pick an existing or new folder and open it in vs code
    - Select initialize source control in the spurce control view
    - To make commits and pushing changes to github use the following commands:
+   - git add .
    - git commit -m "your message" (to commit) and
    - git push to push your changes
 
